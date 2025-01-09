@@ -1,0 +1,2 @@
+# Open_Codes_for_Publication
+論文投稿のためのコード公開用共有リポジトリ
