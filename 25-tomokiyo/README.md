@@ -4,11 +4,10 @@ This folder is for disclosing source codes for the following paper submitted in 
 **Do Researchers Benefit Career-wise from Involvement in International Policy Guideline Development?, submitted**
 
 ## Code Contents
-* 01_name_matching_scopus... Links the guideline researchers to authids in Scopus
-* 02_control_group_matching_process... Matches the guideline researchers (i.e., treatment group) with the  control group
+* 01_control_group_matching_process... Matches the guideline researchers (i.e., treatment group) with the  control group
   * .ipynb files in this folder correspond to each step described in Figure 1. 
-* 03_intermediate_process... Prepares for the experiment, such as building co-authorship networks and obtaining collaborations
-* 04_code_for_fig_or_table... Draws figures and tables
+* 02_intermediate_process... Prepares for the experiment, such as building co-authorship networks and obtaining collaborations
+* 03_code_for_fig_or_table... Draws figures and tables
 
 ## Dependencies & Installation
 The source codes run on Python 3.12.8. Regarding to the libraries to be installed, see requirements.txt.\
