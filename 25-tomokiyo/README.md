@@ -10,8 +10,9 @@ This folder is for disclosing source codes for the following paper submitted in 
 * 03_code_for_fig_or_table... Draws figures and tables
 
 ## Dependencies & Installation
-The source codes run on Python 3.12.8. Regarding to the libraries to be installed, see requirements.txt.\
+The source codes run on Python 3.12.8 and Pop! OS 22.04 LTS (Ubuntu-based Linux distribution). Regarding to the libraries to be installed, see requirements.txt.\
 For installation, please run the following command on your environment. 
+It takes about an hour to run all the code.
 
 ```
 pip install -r requirements.txt
