@@ -22,5 +22,5 @@ pip install -r requirements.txt
 Unfortunately, much of the original data used in this paper is not publicly available, so the source code provided here cannot be run as-is. The code is intended solely to disclose the algorithm.
 However, if you contact the authors, it may be possible to gain limited access to some of the data with permission from Elsevier or Overton.
 
-## Lisence
+## License
 MIT License
