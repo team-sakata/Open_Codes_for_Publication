@@ -7,7 +7,7 @@ This folder is for disclosing source codes for the following paper submitted in 
 * 01_name_matching_scopus... Links the guideline researchers to authids in Scopus
 * 02_control_group_matching_process... Matches the guideline researchers (i.e., treatment group) with the  control group
   * .ipynb files in this folder correspond to each step described in Figure 1. 
-* 03_intermediate_processing... Prepares for the experiment, such as building co-authorship networks and obtaining collaborations
+* 03_intermediate_process... Prepares for the experiment, such as building co-authorship networks and obtaining collaborations
 * 04_code_for_fig_or_table... Draws figures and tables
 
 ## Dependencies & Installation
