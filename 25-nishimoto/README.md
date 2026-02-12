@@ -1,4 +1,4 @@
 # Overview
-This folder is for disclosing source codes for the following paper submitted in Dec 2025:
+This folder is for disclosing source codes for the following paper submitted in Feb 2026:
 
-**From Mechanisms to Infrastructures: An Integrated Five-Layer Framework for Cooperation in LLM-based Multi-Agent Systems**
+**Cooperation Breakdown in LLM Agents Under Communication Delays (Full)**
